@@ -26,7 +26,7 @@ Daily and monthly currency trends
 Comparative analysis of USD, EUR, and other currencies
 Clear KPIs for quick insights
 
-[dashboard](https://github.com/VasylBihari/NBU_exchangerates/blob/main/Dashboard.pdf)
+![dashboard](https://github.com/VasylBihari/NBU_exchangerates/blob/main/Dashboard.pdf)
 
 👨‍💻 Author
 
