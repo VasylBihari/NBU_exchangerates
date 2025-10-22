@@ -6,19 +6,19 @@ A data analytics project that automates the full workflow of collecting, cleanin
 ⚙️ Workflow
 
 1️⃣ Data Extraction:
-Fetched daily exchange rates from the official NBU API using Python.
+Fetched daily exchange rates from the official NBU API using Python.  
 2️⃣ Data Cleaning:
-Processed and transformed the dataset in Python (pandas).
+Processed and transformed the dataset in Python (pandas).  
 3️⃣ Data Analysis:
-Used SQL queries in PostgreSQL to calculate rate dynamics, averages, and percentage changes.
+Used SQL queries in PostgreSQL to calculate rate dynamics, averages, and percentage changes.  
 4️⃣ Visualization:
-Built an interactive Power BI dashboard to monitor key currency trends (USD, EUR, and other currencies).
+Built an interactive Power BI dashboard to monitor key currency trends (USD, EUR, and other   currencies).
 
 🧠 Tech Stack
-Python – API requests & data cleaning
-PostgreSQL – SQL analysis
-Power BI – data visualization
-API Integration – NBU open API
+Python – API requests & data cleaning. 
+PostgreSQL – SQL analysis. 
+Power BI – data visualization. 
+API Integration – NBU open API. 
 
 📊 Key Insights
 
